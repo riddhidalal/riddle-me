@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riddle-me
+- 👋 Hi, I’m Riddhi Dalal .
 - 👩‍💻 I am a python techie !
 - 👀 I’m interested in research and decoding the impossible .
 - 🌱 I’m currently learning web development , AI and machine learning .
